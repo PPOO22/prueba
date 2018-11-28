@@ -1,0 +1,100 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png",LA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/536
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/47/Tve_2.png/revision/latest?cb=20160113214743&path-prefix=es",LA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/537
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bf/24h_bug.png/revision/latest?cb=20171106033802",24 HORAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/3415
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/logo_antena3_despues.jpg",ANTENA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/971
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2016/12/23/zfYgVetOVFiw2OvHuGIrX3.jpg?w=1024",CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/153
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2016/12/23/JgmAwhSsEOUTDPMYbuN9P.jpg?w=1024",TELECINCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/36
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/logo_la_sexta-despues_2.jpg",LA SEXTA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/970
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e2/Atresseries.png/revision/latest?cb=20160120113332",ATRESERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/2700
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png",DIVINITY 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/2737
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/noticias/22800/22845/2.jpg",ENERGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/2735
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/45/Neox_2011.gif/revision/latest?cb=20140314221216",NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/930
+#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/nova.jpg",NOVA 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/924
+#EXTINF:-1 tvg-logo="http://telealhama.es/wp-content/uploads/2015/05/logo-fdf_mini.jpg",FDF 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/2754
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/lossimpson/images/a/a5/800px-FOX_wordmark-orange_svg.png/revision/latest?cb=20090226214941&path-prefix=es",FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/1592
+#EXTINF:-1 tvg-logo="http://www.lbn.lk/images/channel-logo/1455639791Fox_life_it.png",FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/2708
+#EXTINF:-1 tvg-logo="http://www.lbn.lk/images/channel-logo/1455639791Fox_life_it.png",FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/753
+#EXTINF:-1 tvg-logo="http://www.esacademic.com/pictures/eswiki/65/AXN_Logo.PNG",AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/1601
+#EXTINF:-1 tvg-logo="https://movistar.i.lithium.com/t5/image/serverpage/image-id/22483iFC2A3212D7580461?v=1.0",AXN WHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/2728
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/wp-content/uploads/2011/03/calle131.jpg",CALLE 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/1039
+#EXTINF:-1 tvg-logo="http://resources-cdn.plexapp.com/image/source/com.plexapp.plugins.syfy.jpg?h=609a074",SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/929
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180601/cgc/kisspng-paramount-pictures-paramount-channel-television-ch-mountain-logo-5b11a1db31ebe7.6027270915278822032045.jpg",PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/2725
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/2000px-AMC_logo_2016.svg.png",AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/2729
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk2L_0EE2jt_sItp2iLLQ-Y2ZaywU3N09eUKSDkN4AZaEKR509",COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/1593
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/11151/logo_canal%20hollywood3.png",HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/157
+#EXTINF:-1 tvg-logo="http://amoresminusculos.com/wp-content/uploads/2015/08/PRENSA-COSMO-logo-e1439240877354.jpg",COSMO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/2710
+#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/01/natgeowild.png?w=605",NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/2755
+#EXTINF:-1 tvg-logo="http://mandmglobal.com/wp-content/uploads/2016/10/ng.png",NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/558
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c9/f9/fa/c9f9fa05d3663b6643c5079f9ccba0a6.jpg",HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/2699
+#EXTINF:-1 tvg-logo="https://www.comparetv.com.au/wp-content/uploads/2018/03/fetch-adds-discovery-channel-and-tlc.jpg",DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/1600
+#EXTINF:-1 tvg-logo="https://imediagala.files.wordpress.com/2015/05/mega2.jpg",MEGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/925
+#EXTINF:-1 tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/600x600-de-casa-01.png/ec984b84-f707-1998-c782-27134a165329?t=1487250373351",DECASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/1599
+#EXTINF:-1 tvg-logo="https://i.blogs.es/d18e49/logocanalodisea/450_1000.jpg",ODISEA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/154
+#EXTINF:-1 tvg-logo="http://www.caratulasylogos.com/sites/default/files/styles/medium/public/viajar.png?itok=rsJ23dBE",VIAJAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/3936
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000825220874/9a37e1ec3b1aa0bb5aa723e43c30c8ba_400x400.png",TELEDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/2704
+#EXTINF:-1 tvg-logo="https://cdn77.motor.es/fotos-noticias/2018/03/min652x435/movistar-f1-confirma-equipo-retransmision-temporada-2018-201844563_1.jpg",FORMULA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/1595
+#EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/canal-cero.png",MOVISTAR #0
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/152
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Logo-series.png",MOVISTAR SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/35
+#EXTINF:-1 tvg-logo="http://xn--fotocit-hya.com/M.Seriesmania_HD.png",MOVISTAR SERIESMANIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/2721
+#EXTINF:-1 tvg-logo="http://xn--fotocit-hya.com/M.CineDoc&Roll_HD.png",MOVISTAR CINEDOC&ROLL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/2698
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/61/MEstrenos.png",MOVISTAR ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/31
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1200px-Movistar_Acci%C3%B3n.svg.png",MOVISTAR ACCION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/159
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1200px-Movistar_Acci%C3%B3n.svg.png",MOVISTAR ACCION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/155
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png",MOVISTAR DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/156
+#EXTINF:-1 tvg-logo="http://ioiptv.com/logos/ES-logos/ES-Movistar-Disney.png",MOVISTAR DISNEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/2756
+#EXTINF:-1 tvg-logo="http://www.camdserver.com/sb_data/files/taquillaxy-o.jpg",TAQUILLA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/1706
+#EXTINF:-1 tvg-logo="http://www.camdserver.com/sb_data/files/taquillaxy-o.jpg",TAQUILLA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/1589
+#EXTINF:-1 tvg-logo="http://www.camdserver.com/sb_data/files/taquillaxy-o.jpg",TAQUILLA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/1584
+#EXTINF:-1 tvg-logo="http://www.camdserver.com/sb_data/files/taquillaxy-o.jpg",TAQUILLA 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/1503
+#EXTINF:-1 tvg-logo="http://www.camdserver.com/sb_data/files/taquillaxy-o.jpg",TAQUILLA 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/555155895930609/555155895930609/1502
